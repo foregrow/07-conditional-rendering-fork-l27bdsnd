@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/foregrow.07-conditional-rendering-fork-l27bdsnd",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 3GLGyoyzPWTfAxlyyLT9 --open"
+  }
+}
